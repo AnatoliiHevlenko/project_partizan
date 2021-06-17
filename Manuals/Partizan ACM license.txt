@@ -1,0 +1,41 @@
+License Agreement for Partizan Access Control Managment use
+
+Before you use the software, please read the terms of this license agreement. Any use of Software by you means full and unconditional acceptance of the terms of this license agreement. 
+
+If you do not accept the terms of this license agreement in full, you are not eligible to use Software in any way.
+
+1. License 
+This License Agreement ("License") is concluded between you, the end user ("User") and Partizan Security LLP, Dalton House, 60 Windsor Avenue, London, SW19 2RR, United Kingdom, who is the owner of exclusive rights to Partizan ACM Software («Rightholder"). The License sets out the terms of use of Partizan CMS and documentation on it intended for Partizan controllers, cameras and DVRs managment.
+
+1.1. Copying the software and installing it on a personal computer or server, User expresses full and unconditional agreement with all the terms of this License. 
+
+1.2. Use of Software is permitted only under the terms of this License. If User does not accept the license terms in full, User shall not use Software in any way. Use of Software in violation (failure) of any of the conditions of this License is prohibited. 
+
+1.3. Use of Software under this License is done for free. Use of Software on the terms and in ways not covered by this License is only possible on the basis of a separate agreement with Rightholder under the terms prescribed by Rightholder.
+
+2. Rights to the Software.
+Exclusive rights to the program belong to Rightholder.
+
+3. User’s rights
+
+3.1. Software. Rightholder grants the User non-exclusive non-transferable right (Single license) to use Software for direct functional purpose, namely to copy and install it on personal computer(s) or server(s) of User. User is entitled to install Software on an unlimited number of PCs. 
+
+3.2. Restrictions. Except what is expressly provided in this License or by applicable law User has no right to conduct and/or permit the implementation of any from the following in respect of Software: 
+- Processing or modification; 
+- Alteration, decompilation, disassembly, decryption and other actions with Software object code with the aim of violation of protection against unauthorized use of Software and obtaining information on the implementation of algorithms used in Software, as well as creation of derivative works without Rightholder’s written consent; 
+- Removing any copyright notices; 
+- Any other use of Software not expressly provided by this License.
+
+4. Software terms of use
+
+4.1. Software must be used under Partizan ACM name. User may not either modify the name of Software, nor modify and/or delete a copyright notice or other indication to the Rightholder.
+
+5. Responsibilities and warranties under this License
+
+5.1. Software is provided "as is" (as is). Rightholder does not provide either any warranty for error-free and smooth operation of Software, its correspondence to specific User’s objectives, market level, nor it provides any other warranties not directly stated in this License. 
+
+5.2. To the maximum extent permitted by applicable law, Rightholder shall have no liability for any direct or indirect consequences of any use of any Software and/or damage caused to User and/or third parties as a result of any use or non-use of Software, including possible errors or failures in Software. 
+
+5.3. Rightholder does not provide technical and service support to Software.
+
+5.4. Without prejudice to any other rights Rightholder is entitled to terminate this License if User does not comply with the terms of this License. In this case, User is obliged to uninstall and destroy all copies of Software.

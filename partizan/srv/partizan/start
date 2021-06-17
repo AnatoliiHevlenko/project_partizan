@@ -1,0 +1,4 @@
+#!/bin/sh
+rm -fr /tmp/jetty*
+cd /home/user/partizan/bin
+./server.sh

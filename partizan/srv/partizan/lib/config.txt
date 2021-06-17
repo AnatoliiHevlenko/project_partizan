@@ -1,0 +1,4 @@
+#For start web server set web to 1 else 0
+#Mon Aug 31 23:00:38 EEST 2020
+web=1
+port=8089
